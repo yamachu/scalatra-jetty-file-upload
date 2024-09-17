@@ -16,3 +16,4 @@ lazy val hello = (project in file("."))
   )
 
 enablePlugins(SbtTwirl)
+enablePlugins(WarPlugin)
