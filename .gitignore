@@ -75,3 +75,7 @@ metals.sbt
 
 # paulp script
 /.lib/
+
+#
+Dummy.txt
+LargeDummy.txt
